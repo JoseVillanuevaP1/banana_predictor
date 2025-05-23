@@ -1,0 +1,7 @@
+*.h5
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
